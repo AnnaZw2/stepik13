@@ -34,3 +34,5 @@ If liczba%2==0:
  else:
   print("nieparzysta")
  ```
+ ![puppy](https://user-images.githubusercontent.com/92157401/150582361-7101ae25-c943-47c8-ac2e-f0948f772b8b.jpeg)
+
