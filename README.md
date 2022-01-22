@@ -1,7 +1,7 @@
 # stepik13
 #nagłowek
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Vivamus id orci dolor. Aliquam pharetra erat elit, vel malesuada lectus egestas in. Morbi tempor turpis quis consectetur blandit. Duis quam elit, euismod vel ex pulvinar, euismod scelerisque tortor. Aenean aliquet elit sit amet augue aliquet, et semper sem ullamcorper. Phasellus vel vehicula felis, at malesuada nisi. Morbi ac magna fermentum, sodales augue viverra, luctus nisi. Pellentesque velit sem, rhoncus quis metus non, tincidunt varius turpis. Morbi maximus sed mauris sed eleifend.
+*Lorem ipsum dolor sit amet*, **consectetur adipiscing elit**. Vivamus id orci dolor. Aliquam pharetra erat elit, vel malesuada lectus egestas in. Morbi tempor turpis quis consectetur blandit. Duis quam elit, euismod vel ex pulvinar, euismod scelerisque tortor. Aenean aliquet elit sit amet augue aliquet, et semper sem ullamcorper. Phasellus vel vehicula felis, at malesuada nisi. Morbi ac magna fermentum, sodales augue viverra, luctus nisi. Pellentesque velit sem, rhoncus quis metus non, tincidunt varius turpis. Morbi maximus sed mauris sed eleifend.
 ~~Cras a velit quis sem feugiat fringilla sit amet vel libero.~~
 >Aliquam **tellus nunc**, varius eu turpis sit amet, sagittis pharetra augue.
 >
